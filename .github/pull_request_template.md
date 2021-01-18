@@ -5,25 +5,25 @@
 - *[NNB-xxx](https://nesdigital.atlassian.net/browse/NNB)*
 
 ### Task Acceptance Criteria
-- [ ] *Acceptance criteria 1*
+- [x] *Acceptance criteria 1*
 - [ ] *Acceptance criteria 2*
 
 
 ## Checklist
 
-- [ ] Code linted  
-- [ ] Successful smoke test
-- [ ] GitHub Checks all pass
 - [ ] Relevant SIG consulted
+- [ ] Code linted
+- [ ] Unit tests passed (coverage >= 80%)
+- [ ] Successfully deployed appropriate environment
+- [ ] Smoke tests pass
+- [ ] Appropriate GitHub workflows all pass
 - [ ] Grafana metrics are stable
-- [ ] Successfully deployed to dev
 - [ ] Relevant documentation written
-- [ ] Unit tests passed and coverage is >= 80%
 
 
 ## Additional Info
 *e.g screenshots*
 
-Original    | Updated  
+Original    | Updated
 :-----------------------: | :-----------------------:
 *original screenshot* | *updated screenshot* 
